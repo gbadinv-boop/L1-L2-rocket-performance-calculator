@@ -1,4 +1,4 @@
-# 🚀 Rocket Performance Calculator
+# 🚀 L1/L2 Rocket Performance Calculator
 
 ## Objective
 
