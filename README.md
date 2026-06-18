@@ -10,7 +10,6 @@ This project was created out of a passion for rocketry and space exploration. Wh
 
 Whether you are preparing for a launch, learning aerospace engineering concepts, or simply fascinated by rockets, this calculator aims to be a useful companion for exploring and analyzing rocket behavior.
 
-## Features
 
 > ⚠️ This calculator is intended for educational purposes and preliminary performance estimation. Results should always be verified using dedicated simulation software such as OpenRocket before any launch.
 ## Future Development
